@@ -1,36 +1,41 @@
 # pic-md
 
-#### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+## Introduction
 
-#### Software Architecture
-Software architecture description
+This repository exists as a GitHub graph bed, storing blog document images.
 
-#### Installation
+## Instructions for use
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+Here is only an introduction to the use of PicGo for the picture bed, other similar methods, please also check by yourself.
 
-#### Instructions
+### Download PicGo
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+> PicGo is a client for uploading images, which supports drag-and-drop uploads and clipboard uploads, which is very convenient.
 
-#### Contribution
+[Official Website] (https://molunerfinn.com/PicGo/)
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+[GitHub address] (https://github.com/Molunerfinn/picgo/releases)
 
+[Shandong University Mirror Address] (https://mirrors.sdu.edu.cn/github-release/Molunerfinn_PicGo/v2.3.1/)
 
-#### Gitee Feature
+### Diagram bed settings
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+Select Graph Bed Settings - > Github
+
+> Configure basic information such as repository address, branch name, and AccessToken.
+>
+> Repository name: GitHub username / GitHub repository address
+>
+> Branch Name: The name of the GitHub branch
+>
+> token: GitHub's token
+>
+> Storage Path: The folder where the image is stored
+>
+> Custom domain name: <https://cdn.jsdelivr.net/gh/ username/repository name>
+
+### jsDelivr
+
+Official website: <https://www.jsdelivr.com/>
+
+jsDelivr is a free, open-source, unlimited bandwidth CDN public library, which is provided by CDN providers such as Cloudflare, Fastly, StackPath, QUANTIL, etc., with more than 750 CDN nodes around the world, including hundreds of nodes in mainland China, which can accelerate access to static resources in the hosting repository [three main types: NPM\WordPress\Github] and improve the speed of website access.
