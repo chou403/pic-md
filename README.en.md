@@ -12,11 +12,11 @@ Here is only an introduction to the use of PicGo for the picture bed, other simi
 
 > PicGo is a client for uploading images, which supports drag-and-drop uploads and clipboard uploads, which is very convenient.
 
-[Official Website] (https://molunerfinn.com/PicGo/)
+[Official Website](https://molunerfinn.com/PicGo/)
 
-[GitHub address] (https://github.com/Molunerfinn/picgo/releases)
+[GitHub address](https://github.com/Molunerfinn/picgo/releases)
 
-[Shandong University Mirror Address] (https://mirrors.sdu.edu.cn/github-release/Molunerfinn_PicGo/v2.3.1/)
+[Shandong University Mirror Address](https://mirrors.sdu.edu.cn/github-release/Molunerfinn_PicGo/v2.3.1/)
 
 ### Diagram bed settings
 
@@ -32,8 +32,7 @@ Select Graph Bed Settings - > Github
 >
 > Storage Path: The folder where the image is stored
 >
-> Custom domain name: <https://cdn.jsdelivr.net/gh/ username/repository name>
-
+> Custom domain name: <https://cdn.jsdelivr.net/gh/username/repositoryname> for example, <https://cdn.jsdelivr.net/gh/chou401/pic-md@master/>
 ### jsDelivr
 
 Official website: <https://www.jsdelivr.com/>

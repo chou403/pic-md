@@ -32,7 +32,7 @@
 >
 > 存储路径：图库存放的文件夹
 >
-> 自定义域名：<https://cdn.jsdelivr.net/gh/用户名/仓库名>
+> 自定义域名：<https://cdn.jsdelivr.net/gh/用户名/仓库名>，例如：<https://cdn.jsdelivr.net/gh/chou401/pic-md@master/>
 
 ### jsDelivr
 
